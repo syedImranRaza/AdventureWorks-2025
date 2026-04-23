@@ -9,15 +9,15 @@ The goal is to transform raw transactional data into an executive-level dashboar
 
 🏗️ ARCHITECTURE
 SQL Server
-   ↓
+   →
 Dataflow Gen2 (Cleaning)
-   ↓
+   →
 Lakehouse (Bronze/Silver)
-   ↓
+   →
 Warehouse (Gold - Star Schema)
-   ↓
+   →
 Semantic Model (Direct Lake)
-   ↓
+   →
 Power BI Dashboard
 
 🔄 DATA PIPELINE
