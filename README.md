@@ -1,4 +1,4 @@
-# AdventureWorks-2025
+# End-to-End BI Solution using Microsoft Fabric
 AdventureWorks 2025 — End-to-End BI Solution using Microsoft Fabric
 
 🧠 PROJECT OVERVIEW
